@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wifi_default_gateway (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/isaac/flutter/bin/cache/artifacts/engine/ios`)
+  - wifi_default_gateway (from `/Users/isaac/Developer/wifi_default_gateway/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: /Users/isaac/flutter/bin/cache/artifacts/engine/ios
+  wifi_default_gateway:
+    :path: /Users/isaac/Developer/wifi_default_gateway/ios
+
+SPEC CHECKSUMS:
+  Flutter: 7eb41cd1fd524b90d7f22bceb20da2c39338b089
+  wifi_default_gateway: e9bbbb79b31a3b44ee977ce3a7fab7e719f117f2
+
+PODFILE CHECKSUM: c6c865faff84807a5d35de69eb2cdbdc36b99e15
+
+COCOAPODS: 1.4.0
